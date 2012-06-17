@@ -17,7 +17,7 @@ line.
     $ wine msiexec /i RSASecurIDToken411/RSASecurIDToken411.msi
     ```
 
-3. Import your token file:
+3. Import your token file and set the advanced view (Viev -> Advanced View):
 
     ```
     $ wine "C:\Program Files\RSA Security\RSA SecurID Software Token\SecurID.exe"
