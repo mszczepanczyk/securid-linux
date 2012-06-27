@@ -9,13 +9,9 @@ line.
     $ apt-get install wine xvfb
     ```
 
-2. Download and install SecurID software:
+2. Download and install SecurID software using wine:
 
-    ```
-    $ wget ftp://ftp.rsasecurity.com/pub/agents/RSASecurIDToken411.zip
-    $ unzip -x RSASecurIDToken411.zip -d RSASecurIDToken411
-    $ wine msiexec /i RSASecurIDToken411/RSASecurIDToken411.msi
-    ```
+    Unfortunately version 3.0 is no longer available from RSA. The latest version won't work.
 
 3. Import your token file and set the advanced view (View -> Advanced View):
 
