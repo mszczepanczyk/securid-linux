@@ -1,3 +1,10 @@
+Use [stoken](https://github.com/cernekee/stoken).
+   
+---
+   
+   
+   
+    
 This is a set of scripts for running RSA SecurID from the Linux command 
 line.
 
